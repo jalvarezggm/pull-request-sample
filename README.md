@@ -1,3 +1,3 @@
 # Collaborators
 
-- Josue Alfredo
+- Josue Alfredo Alvarez Rueda
